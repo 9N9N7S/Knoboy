@@ -7,6 +7,23 @@
 This is a POC project to prove my PCB design works, especially the encoder (knob) part. On the other hand, I want to practise my soldering skills before I could create some serious stuff. The next try would be making a mechanical keyboard that totally applies my personal preference, without a breakout board (bye bye [Pro Micro](https://github.com/sparkfun/Pro_Micro)).
 
 
+## Features
+
+- [ ] OLED Driver
+- [ ] Backlight
+- [ ] LED Matrix
+- [ ] RGB Lighting
+- [ ] RGB Matrix
+- [ ] Audio
+- [ ] Bluetooth
+- [ ] Li-Po Charger
+- [x] Encoders
+- [ ] Joystick
+- [x] LED Indicators
+- [ ] RGB Indicators
+- [ ] PS/2 Mouse
+
+
 ## Tools
 
 | Tool                              | Picture                    |
